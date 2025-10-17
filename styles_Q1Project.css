@@ -1,0 +1,227 @@
+body {
+  margin: 0;
+  font-family: Helvetica, sans-serif;
+  background-color: #white;
+  }
+
+.header-container {
+
+	background-color: #3d5a80;
+	text-align: center;
+	padding: 5px;
+	color: white;
+}
+
+.Home-button {
+
+	padding-right: 15px;
+	text-decoration: underline;
+}
+
+.About-button {
+
+	padding-inline: 15px;
+	text-decoration: underline;
+}
+
+.Contact-button {
+
+	padding-left: 15px;
+	text-decoration: underline;
+}
+
+
+.profile {
+	boder: 2px solid; 
+	margin-top: 100px; 
+	margin-left: 100px; 
+	margin-right: 100px; 
+	padding: 50px;
+	text-align: center;
+}
+
+#pfp {
+	height: 200px; 
+	width: 200px;
+}
+
+
+
+
+.about-me-header {
+	border: 2px solid;
+	border-color:#3d5a80;
+	border-radius: 30px;
+	background-color: #3d5a80; 
+
+	margin-top: 50px; 
+	margin-left: 615px; 
+	margin-right: 615px; 
+
+	padding: 5px;
+
+	color: white;
+	text-align: center
+}
+
+.about-me-paragraph p {
+	margin-left: 50px;
+	margin-right: 50px;
+	text-align: center;
+}
+
+
+
+.my-works-header {
+	border: 2px solid;
+	border-color:#3d5a80;
+	background-color: #3d5a80;
+
+	font-family: Helvetica, sans-serif; 
+
+	margin-top: 100px; 
+
+	padding: 5px;
+
+	color: white;
+	text-align: center
+}
+
+.my-works-container {
+	border: 1px, solid, black;
+	background-color: lightblue;
+	font-family: Helvetica, sans-serif	;
+	padding: 50px;
+	height: 450px;
+}
+
+.slambook-container {
+	border: 2px solid;
+	border-radius: 20px;
+
+	margin-top: 15px;
+	margin-right: 60px;
+
+	padding: 15px;
+	text-align: center;
+	float: right;
+	background-color: white;
+}
+
+.skills-list {
+	border: 2px solid;
+	border-radius: 20px;
+
+	margin-top: 100px;
+	margin-left: 60px;
+	margin-right: 700px;
+
+	background-color: white;
+}
+
+ol {
+	font-size: 20px;
+
+	text-align: center;
+
+	padding-top: 30px;
+}
+
+
+.contact-section {
+
+	margin-top: 225px;
+	
+}
+
+#gmail {
+		text-decoration:underline;
+}
+
+#ig {
+	text-decoration:underline;
+}
+
+
+.contact-header {
+	border: 2px solid;
+	border-color:#3d5a80;
+	border-radius: 30px;
+	background-color: #3d5a80; 
+
+	margin-top: 50px; 
+	margin-left: 600px; 
+	margin-right: 600px; 
+
+	padding: 5px;
+
+	color: white;
+	text-align: center
+}
+
+
+
+#otherh3 {
+	text-align: center;
+
+}
+
+.contact-form {
+	border: 2px solid;
+	border-radius: 20px ;
+
+	margin-top: 15px;
+	margin-left: 370px;
+	margin-right: 370px;
+
+	padding: 50px;
+
+}
+
+.contact-form-header {
+	text-align: center;
+	color: blue;
+
+}
+
+.input-text {
+
+	width: 100%;
+}
+
+#Rating {
+	height: 40px;
+}
+
+.bottom {
+	border: 2px solid;
+	background-color: #3d5a80 ;
+
+	margin-top: 50px;
+	margin-left: -100px;
+	margin-right: -100px;
+
+
+	text-align: center;
+	color: white;
+}
+
+.submit {
+	border: 2px solid;
+	border-color: skyblue;
+	border-radius: 20px;
+
+
+	margin-left: 250px;
+	margin-right: 150px;
+
+	background-color: #1E87E3 ;
+
+	color: white;
+	font-size: 20px;
+
+	width: 100px;
+	height: 40px;
+}
+
+
